@@ -1,2 +1,2 @@
 # ppc
-avaliação ppc
+server ppc
